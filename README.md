@@ -59,7 +59,7 @@
 
 ---
 
-#### Project Link: [https://github.com/vandit-bera/Rode-Clone](https://github.com/vandit-bera/Rode-Clone)
+#### Project Link: [GitHub](https://github.com/vandit-bera/Rode-Clone)
 
 ---
 
